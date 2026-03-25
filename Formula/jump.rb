@@ -2,7 +2,7 @@ class Jump < Formula
   desc "Fast directory jumping tool with fuzzy matching and bookmark management"
   homepage "https://github.com/linnyh/jump"
   url "https://github.com/linnyh/jump.git", tag: "v0.1.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "c50f25329fdbb3291ff364a28eef8a0d7d2ad180f2549417ae5795b6dcd8a023"
   license "MIT"
   version "0.1.0"
 
